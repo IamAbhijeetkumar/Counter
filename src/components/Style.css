@@ -1,0 +1,35 @@
+.main-div {
+  margin: auto;
+  margin-top:150px;
+  width: 30%;
+  border: 5px solid rgb(95, 220, 95);
+  height: 450px;
+}
+.head {
+  margin-top: 10rem;
+  text-align: center;
+}
+p {
+  width: 450px;
+  padding: auto;
+  text-align: center;
+  height: 50px;
+  font-size: 80px;
+  border-radius: 50px;
+  font-weight: 700;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.btn {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: "Courier New", Courier, monospace;
+  width: 100px;
+  height: 40px;
+  margin-left: 35px;
+  border: none;
+  border-radius: 20px;
+  background-color: rgb(95, 220, 95);
+  margin-top: 2rem;
+  text-align: center;
+}
